@@ -29,5 +29,4 @@ This directory contains total 5 source files
 
         - The method of implementation can be changed by only changing the class_name in #define segment
 
-
         - The init function takes two argument - one is the initial size of the list and the other is the memory chunck size, for linked list implementation the later value is ignored.
