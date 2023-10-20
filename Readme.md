@@ -1,2 +1,2 @@
-Here are some of my implementation of data structure and algorithms-I
-course offline problems
+Here are some of my implementation of `Data Structure and Algorithms-I`
+course **Offline** problems
